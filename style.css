@@ -5,3 +5,18 @@
 .carousel-inner > .carousel-item >img{
     height: 560px;
 }
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.myMargin{
+    margin: 25px;
+}
+
+
+.col > .card > a{
+    text-decoration: none;
+    color: seagreen;
+}
