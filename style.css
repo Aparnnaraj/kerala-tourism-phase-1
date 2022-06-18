@@ -1,15 +1,27 @@
-.carouselMargin{
-    margin-top: 20px;
-}
-
-.carousel-inner > .carousel-item >img{
-    height: 560px;
-}
-
 *{
     padding: 0px;
     margin: 0px;
 }
+
+
+.carouselMargin{
+    margin-top: 20px;
+}
+.myMargin col-md-6{
+margin-left: 25%;
+}
+.myMargin row g-3{
+    margin-left: 25%;
+}
+.carousel-inner > .carousel-item >img{
+    height: 560px;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
 
 .myMargin{
     margin: 25px;
